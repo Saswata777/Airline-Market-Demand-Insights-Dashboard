@@ -15,20 +15,22 @@ The app also provides **AI-powered insights** (via Gemini) or a **rule-based sum
 ---
 
 ## 📂 Project Structure
-Airline-Market-Demand-Insights-Dashboard/
-├── myenv/
-├── app.py
-├── .env
-├── .streamlit/
-│   └── secrets.toml
-├── utils/
-│   ├── init.py
-│   ├── constants.py
-│   ├── data_loader.py
-│   ├── summarizer.py
-│   └── charts.py
-├── requirements.txt
-└── README.md
+----
+      Airline-Market-Demand-Insights-Dashboard/
+      ├── myenv/
+      ├── app.py
+      ├── .env
+      ├── .streamlit/
+      │   └── secrets.toml
+      ├── utils/
+      │   ├── init.py
+      │   ├── constants.py
+      │   ├── data_loader.py
+      │   ├── summarizer.py
+      │   └── charts.py
+      ├── requirements.txt
+      └── README.md
+-----
 
 ----
 
