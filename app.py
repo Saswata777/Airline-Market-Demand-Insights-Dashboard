@@ -77,4 +77,4 @@ st.dataframe(latest.reset_index(drop=True))
 st.write("### Insights")
 if use_ai:
     summary = summarize_with_ai(route_daily)
-    st.text_area("Auto-generated summary", value=summary, height=220)
+    st.text_area("AI-generated summary", value=summary, height=220)
